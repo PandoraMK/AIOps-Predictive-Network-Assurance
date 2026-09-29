@@ -52,9 +52,9 @@ Built with high-performance open-source tools and fully architected for enterpri
 
 * **Core Data & ML:** Python, Pandas, NumPy, Scikit-learn (Random Forest, HGBR).
 * **Explainability:** SHAP (SHapley Additive exPlanations).
-* **Dashboarding & Viz:** Streamlit / Power BI integration.
-* **Automation Layer:** REST Webhooks, JSON payloads (ITSM / Amdocs Smart Net Manager ready).
-* **Enterprise Cloud Mapping:** Designed for seamless integration into **Microsoft Azure Machine Learning**, **Microsoft Fabric**, and **Azure IoT Analytics**.
+* **Dashboarding & Viz:** Power BI integration.
+* **Automation Layer:
+* **Enterprise Cloud Mapping:
 
 ---
 

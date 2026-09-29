@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [System Architecture & Tiered Logic](#-system-architecture--tiered-logic)
 - [Key Performance Metrics](#-key-performance-metrics)

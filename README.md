@@ -1,3 +1,5 @@
+[![Deploy static content to Pages](https://github.com/PandoraMK/AIOps-Predictive-Network-Assurance/actions/workflows/static.yml/badge.svg)](https://github.com/PandoraMK/AIOps-Predictive-Network-Assurance/actions/workflows/static.yml)
+
 # Amdocs AI-Powered Self-Healing Network Operations (AIOps)
 
 > An enterprise-ready, predictive AIOps platform designed to shift telecom network operations from reactive firefighting to proactive, automated self-healing. Built for the **Amdocs AI-Enabled Intelligent Connectivity** challenge.

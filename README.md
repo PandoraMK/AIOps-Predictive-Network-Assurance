@@ -58,14 +58,6 @@ Built with high-performance open-source tools and fully architected for enterpri
 
 ---
 
-## Repository Structure
-```text
-├── data/                  # Telemetry time-series and processed datasets
-├── models/                # Trained rf_diag and hgb_model serialized artifacts
-├── notebooks/             # Exploratory analysis and model validation scripts
-├── src/
-│   ├── feature_eng.py     # Temporal engineering (lags, volatility, acceleration)
-│   ├── backtest.py        # Tiered escalation engine and validation pipeline
-│   └── webhook.py         # Automated remediation payload generator
-├── dashboard/             # Streamlit NOC fleet health app
-└── README.md
+## Live Demo & Quick start
+```
+https://aiops-predictive-network-assurance-dashboard.streamlit.app/

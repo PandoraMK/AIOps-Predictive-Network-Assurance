@@ -9,7 +9,6 @@
 - [System Architecture & Tiered Logic](#-system-architecture--tiered-logic)
 - [Key Performance Metrics](#-key-performance-metrics)
 - [Tech Stack & Azure Alignment](#-tech-stack--azure-alignment)
-- [Repository Structure](#-repository-structure)
 - [Live Demo & Quickstart](#-live-demo--quickstart)
 
 ---

@@ -46,7 +46,7 @@ Validated across multi-station historical node streams (1,885 operational snapsh
 
 ---
 
-## 🛠️ Tech Stack & Azure Alignment
+## Tech Stack & Azure Alignment
 Built with high-performance open-source tools and fully architected for enterprise cloud deployment:
 
 * **Core Data & ML:** Python, Pandas, NumPy, Scikit-learn (Random Forest, HGBR).
